@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactYtSearchApp/static/css/main.9494a653.chunk.css",
+    "main.js": "/ReactYtSearchApp/static/js/main.92fbefde.chunk.js",
+    "main.js.map": "/ReactYtSearchApp/static/js/main.92fbefde.chunk.js.map",
+    "runtime-main.js": "/ReactYtSearchApp/static/js/runtime-main.5c47e14e.js",
+    "runtime-main.js.map": "/ReactYtSearchApp/static/js/runtime-main.5c47e14e.js.map",
+    "static/js/2.3e2def76.chunk.js": "/ReactYtSearchApp/static/js/2.3e2def76.chunk.js",
+    "static/js/2.3e2def76.chunk.js.map": "/ReactYtSearchApp/static/js/2.3e2def76.chunk.js.map",
+    "index.html": "/ReactYtSearchApp/index.html",
+    "precache-manifest.1ae8e3c55cc35f5771a92f7e4e8d8920.js": "/ReactYtSearchApp/precache-manifest.1ae8e3c55cc35f5771a92f7e4e8d8920.js",
+    "service-worker.js": "/ReactYtSearchApp/service-worker.js",
+    "static/css/main.9494a653.chunk.css.map": "/ReactYtSearchApp/static/css/main.9494a653.chunk.css.map",
+    "static/js/2.3e2def76.chunk.js.LICENSE.txt": "/ReactYtSearchApp/static/js/2.3e2def76.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c47e14e.js",
+    "static/js/2.3e2def76.chunk.js",
+    "static/css/main.9494a653.chunk.css",
+    "static/js/main.92fbefde.chunk.js"
+  ]
+}
